@@ -1,6 +1,6 @@
 ## GOLF
 
-Mi intento de hacer el programa mas corto posible que implemente la funcion watefoc. Se puede encontrar en el archivo `hit.py`.
+Mi intento de hacer el programa mas corto posible que implemente la funcion wadefoc. Se puede encontrar en el archivo `hit.py`.
 
 
 ## Como ejecutar el programa
