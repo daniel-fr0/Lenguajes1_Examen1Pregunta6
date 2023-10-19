@@ -34,8 +34,3 @@ file = open("hit.py", "r")
 data = file.read()
 file.close()
 print(len(data))
-
-file = open("hit2.hs", "r")
-data = file.read()
-file.close()
-print(len(data))
